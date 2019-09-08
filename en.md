@@ -10,6 +10,7 @@ That's why this list has been created : to help you to save some privacy by repl
 - [F-Droid](#f-droid)
 - [Alternatives to Google apps](#alternatives-to-google-apps)
   - [PlayStore](#play-store)
+  - [Messages](#messages)
 - [Credits](#credits)
 - [License](#license)
 
@@ -23,6 +24,10 @@ I recommend you to use it to download the following apps!
 ### Play Store
 
 * Aurora Store ([Official Website](http://auroraoss.com/) - [Download on F-Droid](https://f-droid.org/app/com.aurora.store)) : This is an open source implementation of the Play Store : you'll found the same apps. *Warning! Use only app generated accounts, and not your personal account, as long as it can be banned! This meant that you only can install free Play Store apps, not paid ones!*
+
+### Messages
+
+* Silence ([Site officiel](https://silence.im/) - [Télécharger sur F-Droid](https://f-droid.org/packages/org.smssecure.smssecure/)) : Messages are locally encrypted and from end-to-end if your peer uses also Silence.
 
 ## Contribute
 

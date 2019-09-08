@@ -10,6 +10,7 @@ C'est pour cela que cette liste a été créée, afin de vous aider à protéger
 - [F-Droid](#f-droid)
 - [Alternatives aux applications Google](#alternatives-aux-applications-google)
   - [Play Store](#play-store)
+  - [Messages](#messages)
 - [Crédits](#cr%C3%A9dits)
 - [Licence](#licence)
 
@@ -23,6 +24,10 @@ Je vous recommande de l'utiliser pour télécharger les applications présentée
 ### Play Store
 
 * Aurora Store ([Site officiel](http://auroraoss.com/) - [Télécharger sur F-Droid](https://f-droid.org/app/com.aurora.store)) : Il s'agit d'une implémentation open source du Play Store : vous y trouverez ainsi les mêmes applications. *Attention! Utilisez uniquement des comptes générés par l'app, et non votre compte personnel, il pourrait se faire bannir! Cela sous-entend que vous ne pouvez installer que des apps gratuites du Play Store.*
+
+### Messages
+
+* Silence ([Site officiel](https://silence.im/) - [Télécharger sur F-Droid](https://f-droid.org/packages/org.smssecure.smssecure/)) : Les messages sont chiffrés localement, et de bout à bout si le pair dispose utilise également Silence.
 
 ## Contribuer
 
