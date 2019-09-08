@@ -23,7 +23,7 @@ Je vous recommande de l'utiliser pour télécharger les applications présentée
 
 ### Play Store
 
-* Aurora Store ([Site officiel](http://auroraoss.com/) - [Télécharger sur F-Droid](https://f-droid.org/app/com.aurora.store)) : Il s'agit d'une implémentation open source du Play Store : vous y trouverez ainsi les mêmes applications. *Attention! Utilisez uniquement des comptes générés par l'app, et non votre compte personnel, il pourrait se faire bannir! Cela sous-entend que vous ne pouvez installer que des apps gratuites du Play Store.*
+* Aurora Store ([Site officiel](https://auroraoss.com/) - [Télécharger sur F-Droid](https://f-droid.org/app/com.aurora.store)) : Il s'agit d'une implémentation open source du Play Store : vous y trouverez ainsi les mêmes applications. *Attention! Utilisez uniquement des comptes générés par l'app, et non votre compte personnel, il pourrait se faire bannir! Cela sous-entend que vous ne pouvez installer que des apps gratuites du Play Store.*
 
 ### Messages
 
