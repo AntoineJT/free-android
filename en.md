@@ -1,6 +1,6 @@
 # Google Apps Alternatives ![EN](https://raw.githubusercontent.com/AntoineJT/gapps-alternatives/master/medias/greatbritainflag.png)
 
-French? Go to the [FR Edition](/fr)
+French? Go to the [FR Edition](https://antoinejt.github.io/gapps-alternatives/fr)
 
 Welcome!
 
