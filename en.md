@@ -1,6 +1,6 @@
-# Google Apps Alternatives ![EN](https://raw.githubusercontent.com/AntoineJT/gapps-alternatives/master/medias/greatbritainflag.png)
+# Free Android ![EN](https://raw.githubusercontent.com/AntoineJT/free-android/master/medias/greatbritainflag.png)
 
-French? Go to the [FR Edition](https://antoinejt.github.io/gapps-alternatives/fr)
+French? Go to the [FR Edition](https://antoinejt.github.io/free-android/fr)
 
 Welcome!
 
@@ -31,7 +31,7 @@ I recommend you to use it to download the following apps!
 
 ## Contribute
 
-This website is open-source ! An issue to report ? New links to add ? Check the [Github repository](https://github.com/AntoineJT/gapps-alternatives) !
+This website is open-source ! An issue to report ? New links to add ? Check the [Github repository](https://github.com/AntoineJT/free-android) !
 
 ## Credits
 
@@ -47,13 +47,13 @@ This is totally based on [learndev](https://github.com/learndev-info/awesome-lea
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/AntoineJT/gapps-alternatives">
+     href="https://github.com/AntoineJT/free-android">
     <span property="dct:title">Antoine Tournepiche</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">gapps-alternatives</span>.
+  <span property="dct:title">free-android</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="FR" about="https://github.com/AntoineJT/gapps-alternatives">
+      content="FR" about="https://github.com/AntoineJT/free-android">
   France</span>.
 </p>
 
