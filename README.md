@@ -6,10 +6,10 @@ That's why this list has been created : to help you to save some privacy by repl
 * [Go to French](https://antoinejt.github.io/gapps-alternatives/fr)
 * [Go to English](https://antoinejt.github.io/gapps-alternatives/en)
 
-# Credits
+## Credits
 
 This is totally based on [learndev](https://github.com/learndev-info/awesome-learning-dev-fr) repository to which you can take a look if you are or plan to be a developer.
 
-# License
+## License
 
 This repository is under CC0, in the public domain, as the repository it's based on.
