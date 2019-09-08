@@ -45,7 +45,7 @@ Ceci est totalement basé sur le dépôt [learndev](https://github.com/learndev-
      href="https://github.com/AntoineJT/gapps-alternatives">
     <span property="dct:title">Antoine Tournepiche</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">awesome-learning-dev-fr</span>.
+  <span property="dct:title">gapps-alternatives</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="FR" about="https://github.com/AntoineJT/gapps-alternatives">
